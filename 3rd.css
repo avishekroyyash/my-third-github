@@ -1,0 +1,21 @@
+p{
+    text-decoration: dashed;
+    color:orange;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: normal;
+    text-align: justify;
+    text-shadow: 5px;
+}
+h1,h2,h3{
+    color:greenyellow;
+    border:5px solid red;
+    padding 5px;
+    background-color: blue;
+    text-align: center;
+    box-shadow: 5px 10px;
+}
+*{
+    margin:10px;
+}
